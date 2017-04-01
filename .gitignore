@@ -1,0 +1,5 @@
+/database
+/websites/*
+!/websites/.keep
+
+.DS_Store
